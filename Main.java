@@ -14,6 +14,6 @@ public class Main
 		System.out.println("My hobby is origami.");
 		System.out.println("My favorite video game is The Witness.");
 		System.out.println("I enjoy solving puzzles.");
-		System.out.println("My favorite clue is red.");
+		System.out.println("My favorite color is red.");
 	}
 }
